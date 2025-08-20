@@ -21,6 +21,7 @@ int main()
     destuff[j++]='1';
     destuff[j++]='1';
     destuff[j++]='0';
+    //Praveshforking
 
     for(i=0;i<strlen(bit);i++)
     {
